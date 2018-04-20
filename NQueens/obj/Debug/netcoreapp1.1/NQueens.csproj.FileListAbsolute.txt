@@ -1,0 +1,21 @@
+c:\users\mangirdas\documents\visual studio 2017\Projects\NQueens\NQueens\bin\Debug\netcoreapp1.1\NQueens.deps.json
+c:\users\mangirdas\documents\visual studio 2017\Projects\NQueens\NQueens\bin\Debug\netcoreapp1.1\NQueens.runtimeconfig.json
+c:\users\mangirdas\documents\visual studio 2017\Projects\NQueens\NQueens\bin\Debug\netcoreapp1.1\NQueens.runtimeconfig.dev.json
+c:\users\mangirdas\documents\visual studio 2017\Projects\NQueens\NQueens\bin\Debug\netcoreapp1.1\NQueens.dll
+c:\users\mangirdas\documents\visual studio 2017\Projects\NQueens\NQueens\bin\Debug\netcoreapp1.1\NQueens.pdb
+c:\users\mangirdas\documents\visual studio 2017\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.csprojResolveAssemblyReference.cache
+c:\users\mangirdas\documents\visual studio 2017\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.csproj.CoreCompileInputs.cache
+c:\users\mangirdas\documents\visual studio 2017\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.AssemblyInfo.cs
+c:\users\mangirdas\documents\visual studio 2017\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.dll
+c:\users\mangirdas\documents\visual studio 2017\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.pdb
+E:\Projects\NQueens\NQueens\bin\Debug\netcoreapp1.1\NQueens.deps.json
+E:\Projects\NQueens\NQueens\bin\Debug\netcoreapp1.1\NQueens.runtimeconfig.json
+E:\Projects\NQueens\NQueens\bin\Debug\netcoreapp1.1\NQueens.runtimeconfig.dev.json
+E:\Projects\NQueens\NQueens\bin\Debug\netcoreapp1.1\NQueens.dll
+E:\Projects\NQueens\NQueens\bin\Debug\netcoreapp1.1\NQueens.pdb
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.csprojResolveAssemblyReference.cache
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.csproj.CoreCompileInputs.cache
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.AssemblyInfoInputs.cache
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.AssemblyInfo.cs
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.dll
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp1.1\NQueens.pdb

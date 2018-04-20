@@ -1,0 +1,11 @@
+E:\Projects\NQueens\NQueens\bin\Debug\netcoreapp2.0\NQueens.deps.json
+E:\Projects\NQueens\NQueens\bin\Debug\netcoreapp2.0\NQueens.runtimeconfig.json
+E:\Projects\NQueens\NQueens\bin\Debug\netcoreapp2.0\NQueens.runtimeconfig.dev.json
+E:\Projects\NQueens\NQueens\bin\Debug\netcoreapp2.0\NQueens.dll
+E:\Projects\NQueens\NQueens\bin\Debug\netcoreapp2.0\NQueens.pdb
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp2.0\NQueens.csprojResolveAssemblyReference.cache
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp2.0\NQueens.csproj.CoreCompileInputs.cache
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp2.0\NQueens.AssemblyInfoInputs.cache
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp2.0\NQueens.AssemblyInfo.cs
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp2.0\NQueens.dll
+E:\Projects\NQueens\NQueens\obj\Debug\netcoreapp2.0\NQueens.pdb
